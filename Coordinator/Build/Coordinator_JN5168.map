@@ -1,0 +1,1715 @@
+Archive member included because of file (symbol)
+
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libOS_JN516x.a(os.o)
+                              os_gen.o (symbol from plugin) (os_vStart)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libOS_JN516x.a(os_contirq_JN516x.o)
+                              os_irq.o (os_UnclaimedException_W)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPWRM_JN516x.a(pwrm.o)
+                              app_start.o (symbol from plugin) (PWRM_vInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPWRM_JN516x.a(pwrm_setjmp_JN516x.o)
+                              pwrm.o (symbol from plugin) (setjmp)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPWRM_JN516x.a(pwrm_cold_start.o)
+                              (AppColdStart)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPWRM_JN516x.a(pwrm_warm_start.o)
+                              (AppWarmStart)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDUM_JN516x.a(pdum_nwk.o)
+                              pdum_gen.o (symbol from plugin) (pdum_vNPduInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDUM_JN516x.a(pdum_apl.o)
+                              appZdpExtraction.o (symbol from plugin) (PDUM_u16APduInstanceReadNBO)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDUM_JN516x.a(pdum.o)
+                              pdum_nwk.o (symbol from plugin) (PDUM_u16SizeNBO)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_af.o)
+                              App_Coordinator.o (symbol from plugin) (ZPS_eAplAfInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_af_apsde.o)
+                              zps_gen.o (symbol from plugin) (zps_vHandleApsdeDataFragIndNotSupported)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_task.o)
+                              zps_apl_af_apsde.o (symbol from plugin) (zps_vAplAfPostEvent)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_apsde.o)
+                              zps_apl_task.o (symbol from plugin) (ZPS_vAplRegisterApsdeDcfmIndCallbacks)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_apsme.o)
+                              zps_apl_task.o (symbol from plugin) (ZPS_vAplRegisterApsmeDcfmIndCallbacks)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_aps_nlde.o)
+                              zps_apl_task.o (symbol from plugin) (zps_vAplApsHandleNldeDcfmInd)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_sec.o)
+                              zps_apl_task.o (symbol from plugin) (zps_psFindKeyDescr)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_aib.o)
+                              app_zbp_utilities.o (symbol from plugin) (zps_psAplAibGetAib)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_nwkmanager.o)
+                              zps_apl_apsme.o (symbol from plugin) (zps_vAplSaveRecord)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_handle_zdp_event.o)
+                              zps_apl_task.o (symbol from plugin) (zps_bAplZdoHandleZdpEvent)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_trust_center.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplTrustCenterInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_common.o)
+                              zps_apl_zdo_nwkmanager.o (symbol from plugin) (zps_eAplZdoNlmeleaveWrapper)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_default_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoDefaultServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_mac_isr.o)
+                              zps_apl_task.o (symbol from plugin) (u32DataQueueCount)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_end_device_bind_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoEndDeviceBindServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_nwk_addr_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoNwkAddrServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_ieee_addr_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoIeeeAddrServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_match_desc_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoMatchDescServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_node_desc_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoNodeDescServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_simple_desc_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoSimpleDescServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_power_desc_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoPowerDescServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_active_ep_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoActiveEpServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_device_annce_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoDeviceAnnceServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_permit_joining_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoPermitJoiningServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_system_server_discovery_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoSystemServerDiscoveryServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_mgmt_lqi_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoMgmtLqiServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_mgmt_rtg_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoMgmtRtgServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_mgmt_leave_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoMgmtLeaveServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_mgmt_nwk_update_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoMgmtNWKUpdateServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_bind_unbind_server.o)
+                              zps_gen.o (symbol from plugin) (zps_vAplZdoBindUnbindServerInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_bound_data_request_manager.o)
+                              zps_gen.o (symbol from plugin) (zps_bAplZdoBindRequestServer)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdo_nwkmanager_client.o)
+                              zps_apl_zdo_bind_unbind_server.o (symbol from plugin) (zps_vAplZdoClientLookupNwkAddress)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_apsde_req.o)
+                              zps_apl_zdo_end_device_bind_server.o (symbol from plugin) (zps_eAplZdpApsdeReqInternal)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_mgmt_permit_joining_req.o)
+                              app_zbp_utilities.o (symbol from plugin) (zps_eAplZdpMgmtPermitJoiningRequest)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_nwk_addr_req.o)
+                              AgeChildren.o (symbol from plugin) (zps_eAplZdpNwkAddrRequest)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_nwk_addr_rsp.o)
+                              zps_apl_zdo_nwk_addr_server.o (symbol from plugin) (zps_eZdpNwkAddrResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_ieee_addr_rsp.o)
+                              zps_apl_zdo_ieee_addr_server.o (symbol from plugin) (zps_eZdpIeeeAddrResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_node_desc_rsp.o)
+                              zps_apl_zdo_node_desc_server.o (symbol from plugin) (zps_eZdpNodeDescResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_power_desc_rsp.o)
+                              zps_apl_zdo_power_desc_server.o (symbol from plugin) (zps_eZdpPowerDescResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_simple_desc_rsp.o)
+                              zps_apl_zdo_simple_desc_server.o (symbol from plugin) (zps_eZdpSimpleDescResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_active_ep_rsp.o)
+                              zps_apl_zdo_active_ep_server.o (symbol from plugin) (zps_eZdpActiveEpResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_match_desc_rsp.o)
+                              zps_apl_zdo_match_desc_server.o (symbol from plugin) (zps_eZdpMatchDescResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_system_server_discovery_rsp.o)
+                              zps_apl_zdo_system_server_discovery_server.o (symbol from plugin) (zps_eZdpSystemServerDiscoveryResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_end_device_bind_rsp.o)
+                              zps_apl_zdo_end_device_bind_server.o (symbol from plugin) (zps_eZdpEndDeviceBindResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_bind_rsp.o)
+                              zps_apl_zdo_bind_unbind_server.o (symbol from plugin) (zps_eAplZdpBindResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_unbind_rsp.o)
+                              zps_apl_zdo_bind_unbind_server.o (symbol from plugin) (zps_eZdpUnbindResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_mgmt_lqi_rsp.o)
+                              zps_apl_zdo_mgmt_lqi_server.o (symbol from plugin) (zps_eAplZdpMgmtLqiResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_mgmt_rtg_rsp.o)
+                              zps_apl_zdo_mgmt_rtg_server.o (symbol from plugin) (zps_eAplZdpMgmtRtgResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_mgmt_leave_rsp.o)
+                              zps_apl_zdo_mgmt_leave_server.o (symbol from plugin) (zps_eZdpMgmtLeaveResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_mgmt_nwk_update_notify_rsp.o)
+                              zps_apl_zdo_mgmt_nwk_update_server.o (symbol from plugin) (zps_eZdpMgmtNwkUpdateNotifyResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_zdp_mgmt_permit_joining_rsp.o)
+                              zps_apl_zdo_permit_joining_server.o (symbol from plugin) (zps_eZdpMgmtPermitJoiningResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libRandom_JN516x.a(rnd_main.o)
+                              zps_apl_af.o (symbol from plugin) (RND_vInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_Create.o)
+                              app_start.o (symbol from plugin) (PDM_eInitialise)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_EEPROMsegmentStatus.o)
+                              PDM_Create.o (symbol from plugin) (bPDM_DoesEEPROMsegmentContainFileSystemHeader)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystem.o)
+                              app_pdm.o (symbol from plugin) (u8PDM_CalculateFileSystemCapacity)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemData.o)
+                              app_pdm.o (symbol from plugin) (PDM_eReadDataFromRecord)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemDelete.o)
+                              App_Coordinator.o (symbol from plugin) (PDM_vDeleteAllDataRecords)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemGenerate.o)
+                              PDM_Create.o (symbol from plugin) (vPDM_GenerateCleanFileSystem)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemHeaderAccessFunctions.o)
+                              PDM_FileSystemData.o (symbol from plugin) (ePDM_ReadFileSystemHeaderCopyIndex)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemHeaderRepair.o)
+                              PDM_FileSystemGenerate.o (symbol from plugin) (iPDM_RepairFileSystemRecord)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemHeaderVerify.o)
+                              PDM_FileSystemHeaderRepair.o (symbol from plugin) (iPDM_ReCalculateWearCountAndChecksumAndWriteFileSystemHeader)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemMove.o)
+                              PDM_FileSystemDelete.o (symbol from plugin) (vPDM_MoveAllDataFromListToList)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemVerify.o)
+                              PDM_FileSystemGenerate.o (symbol from plugin) (iPDM_VerifyDataSequenceWithBufferId)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_ImageBitmapReconstruct.o)
+                              PDM_FileSystemGenerate.o (symbol from plugin) (iPDM_ReconstructValidImageBitmap)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SearchAndListOrder.o)
+                              PDM_FileSystem.o (symbol from plugin) (vPDM_AddFileSystemElementToListInAscendingWearCountOrder)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_Segment.o)
+                              PDM_FileSystemData.o (symbol from plugin) (iPDM_WriteSegmentHeaderAndData)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentData.o)
+                              PDM_FileSystemVerify.o (symbol from plugin) (iPDM_ReadUserDataFromFileSystemRecord)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentReplace.o)
+                              PDM_FileSystemGenerate.o (symbol from plugin) (iPDM_ReconstructReplacedDataTable)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentSequenceExtendDelete.o)
+                              PDM_FileSystemData.o (symbol from plugin) (bPDM_IsSequenceAppended)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentSequenceExtendReconstruct.o)
+                              PDM_FileSystemGenerate.o (symbol from plugin) (iPDM_ReconstructExtendedSegmentSequence)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentSequenceSave.o)
+                              App_Coordinator.o (symbol from plugin) (PDM_eSaveRecordData)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_slist.o)
+                              PDM_Create.o (symbol from plugin) (vSLISTinitialise)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_WearLevelling.o)
+                              PDM_FileSystem.o (symbol from plugin) (iPDM_GetWearLevelledBuffer)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_Bitmap.o)
+                              PDM_FileSystemGenerate.o (symbol from plugin) (vPDM_ReconstructValidBitmap)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_EEPROMheaderAccessFunctions.o)
+                              PDM_FileSystemDelete.o (symbol from plugin) (vPDM_SetEEPROMandFileSystemValidState)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_EEPROMheaderReadAndWrite.o)
+                              PDM_EEPROMsegmentStatus.o (symbol from plugin) (iPDM_ReadSegmentHeaderDataFromEEPROMsegment)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_EEPROMReadAndWrite.o)
+                              PDM_FileSystemGenerate.o (symbol from plugin) (iPDM_ReadUserDataFromEEPROMsegment)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_FileSystemHeaderChecksum.o)
+                              PDM_FileSystemHeaderVerify.o (symbol from plugin) (u16PDM_CalculateRecordChecksum)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_RAMBitmap.o)
+                              PDM_SegmentSequenceSave.o (symbol from plugin) (bPDM_CreateRamBitmap)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_SegmentSequenceExtendFilter.o)
+                              PDM_SegmentSequenceExtendReconstruct.o (symbol from plugin) (vPDM_FilterDuplicateAppendedSegmentsFromList)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a(PDM_EEPROM.o)
+                              PDM_EEPROMheaderReadAndWrite.o (symbol from plugin) (bPDM_InitialiseEEPROM)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libDBG_JN516x.a(dbg.o)
+                              app_start.o (symbol from plugin) (dbg_vPrintfImplNoneVerbose)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libDBG_JN516x.a(dbg_uart.o)
+                              app_start.o (symbol from plugin) (DBG_vUartInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libDBG_JN516x.a(dbg_exceptions.o)
+                              app_exceptions.o (symbol from plugin) (DBG_vDumpStack)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_dcim.o)
+                              zps_apl_task.o (symbol from plugin) (ZPS_vNwkRegisterNlmeDcfmIndCallbacks)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_lib.o)
+                              appZpsBeaconHandler.o (symbol from plugin) (zps_u64NwkLibFromPayload)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_lkst.o)
+                              zps_apl_mac_isr.o (symbol from plugin) (zps_u8CalcLinkCost)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_main.o)
+                              zps_apl_zdo_nwkmanager.o (symbol from plugin) (ZPS_pvNwkCtor)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_maint.o)
+                              zps_apl_sec.o (symbol from plugin) (zps_bNwkFindAddIeeeAddr)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_mcps.o)
+                              zps_nwk_main.o (symbol from plugin) (zps_vNwkMcpsMgrInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_mlme.o)
+                              zps_apl_task.o (symbol from plugin) (ZPS_vNwkHandleMlmeDcfmInd)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_nib.o)
+                              app_zbp_utilities.o (symbol from plugin) (ZPS_psNwkNibGetHandle)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_nlde.o)
+                              zps_apl_af_apsde.o (symbol from plugin) (ZPS_vNwkHandleNldeReqRsp)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_nlme.o)
+                              zps_apl_apsde.o (symbol from plugin) (ZPS_vNwkHandleNlmeReqRsp)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_pmjn.o)
+                              zps_nwk_main.o (symbol from plugin) (zps_vNwkPermitJoiningInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_rt.o)
+                              zps_nwk_nib.o (symbol from plugin) (zps_vExpireOldRoutes)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_sec.o)
+                              zps_apl_sec.o (symbol from plugin) (ZPS_bSecEncrypt)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_slist.o)
+                              zps_nwk_mcps.o (symbol from plugin) (zps_vNwkSlistInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_actv_st.o)
+                              zps_nwk_main.o (symbol from plugin) (zps_eNwkActvStInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_btt.o)
+                              zps_nwk_main.o (symbol from plugin) (zps_vNwkBttMgrInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_disc.o)
+                              zps_nwk_actv_st.o (symbol from plugin) (zps_vNwkHandleCmeNwkDiscReq)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_disc_st.o)
+                              zps_nwk_main.o (symbol from plugin) (zps_eNwkDiscStInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_form_st.o)
+                              zps_nwk_main.o (symbol from plugin) (zps_eNwkFormStInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_frm.o)
+                              zps_nwk_mcps.o (symbol from plugin) (zps_eDefaultDataDcfm)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_idle_st.o)
+                              zps_nwk_nlme.o (symbol from plugin) (zps_vNwkIdleStHandleCme)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_join.o)
+                              zps_nwk_actv_st.o (symbol from plugin) (zps_vNwkHandleCmeDirectJoinReq)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_join_st.o)
+                              zps_nwk_join.o (symbol from plugin) (zps_vNwkJoinStStartResponseTimer)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_leave.o)
+                              zps_nwk_actv_st.o (symbol from plugin) (zps_eNwkHandleSceLeave)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_mac.o)
+                              zps_nwk_maint.o (symbol from plugin) (MAC_u64GetExtAddr)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_scan.o)
+                              zps_nwk_disc.o (symbol from plugin) (zps_sNwkLibSubmitScan)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_sync.o)
+                              zps_nwk_actv_st.o (symbol from plugin) (zps_vNwkHandleCmeSyncReq)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_form.o)
+                              zps_nwk_idle_st.o (symbol from plugin) (zps_vNwkHandleCmeIdleNwkFormReq)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMiniMac_JN516x.a(Mini_Main.o)
+                              zps_apl_mac_isr.o (symbol from plugin) (vMiniMac_InterruptHandler)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMiniMac_JN516x.a(Mini_Mcps.o)
+                              Mini_Main.o (symbol from plugin) (psGetTxFrameBuffer)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMiniMac_JN516x.a(Mini_TimerServer.o)
+                              Mini_Main.o (symbol from plugin) (vTimerInitialise)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMiniMac_JN516x.a(Mini_TxRx.o)
+                              Mini_Mcps.o (symbol from plugin) (vAddToTxQueue)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMiniMac_JN516x.a(Endian.o)
+                              Mini_Main.o (symbol from plugin) (vFromU16ToLe)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMiniMac_JN516x.a(Mini_Association.o)
+                              Mini_TxRx.o (symbol from plugin) (vAssociatingRxCallback)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMiniMac_JN516x.a(Mini_Running.o)
+                              Mini_TxRx.o (symbol from plugin) (vRunningRxCallback)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMiniMac_JN516x.a(Mini_Scan.o)
+                              Mini_Running.o (symbol from plugin) (vScanOrphanReceived)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMiniMac_JN516x.a(Mini_Poll.o)
+                              Mini_Running.o (symbol from plugin) (vMiniMacPoll_CheckPollResponse)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMiniMacShim_JN516x.a(Mini_Shim.o)
+                              zps_nwk_nib.o (symbol from plugin) (eAppApiDefPlmeSet)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMMAC_JN516x.a(MMAC.o)
+                              Mini_Main.o (symbol from plugin) (vMMAC_Enable)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMMAC_JN516x.a(MMAC_RadioInit_JN516x.o)
+                              Mini_Main.o (symbol from plugin) (vMMAC_ConfigureRadio)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libAes_JN516x.a(AEScoprocessorAPI.o)
+                              zps_nwk_sec.o (symbol from plugin) (bACI_WriteKey)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libAes_JN516x.a(AES_CCM_Star.o)
+                              zps_nwk_sec.o (symbol from plugin) (vACI_OptimisedCcmStar)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_Dio.o)
+                              App_Coordinator.o (symbol from plugin) (vAHI_DioSetDirection)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_Reset.o)
+                              app_exceptions.o (symbol from plugin) (vAHI_SwReset)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_System.o)
+                              pwrm_cold_start.o (symbol from plugin) (u8AHI_PowerStatus)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_Timer.o)
+                              AHI_System.o (symbol from plugin) (vAHI_TimerEnable)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_TimerInt.o)
+                              AHI_System.o (symbol from plugin) (vAHI_Timer0RegisterCallback)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_Uart.o)
+                              dbg_uart.o (symbol from plugin) (vAHI_UartSetClockDivisor)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_WakeTimer.o)
+                              pwrm.o (symbol from plugin) (vAHI_WakeTimerEnable)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_Flash.o)
+                              AHI_System.o (symbol from plugin) (vAHI_FlashAndEEPROMControllerIntHandler)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_Infrared.o)
+                              AHI_TimerInt.o (symbol from plugin) (vAHI_IntHandlerInfrared)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(InternalFlashApi.o)
+                              AHI_Flash.o (symbol from plugin) (bFlashErase)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(EEP_EEPROM.o)
+                              PDM_Create.o (symbol from plugin) (u16AHI_InitialiseEEP)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_TickTimer.o)
+                              app_timer_driver.o (symbol from plugin) (vAHI_TickTimerIntPendClr)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+                              Mini_Main.o (symbol from plugin) (vAHI_InterruptSetPriority)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_Spi.o)
+                              AHI_Flash.o (symbol from plugin) (vAHI_SpiConfigure)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMicroSpecific_JN516x.a(MicroInt_ba.o)
+                              Mini_Main.o (symbol from plugin) (vMicroIntEnableOnly)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                              AHI_Reset.o (symbol from plugin) (vMicroSyscall)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libBoot_JN516x.a(Heap.o)
+                              (u32HeapStart)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                              Mini_Main.o (symbol from plugin) (isr_handlers)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSMAC_Mini_JN516x.a(zps_miniMac.o)
+                              zps_apl_mac_isr.o (symbol from plugin) (ZPS_vMiniMacShimInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSTSV_JN516x.a(zps_tsv.o)
+                              zps_apl_zdo_nwkmanager.o (symbol from plugin) (ZPS_vTsvInit)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libAES_SW_JN516x.a(aes_sw_hmac_mmo.o)
+                              zps_apl_sec.o (symbol from plugin) (AESSW_vHMAC_MMO)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libAES_SW_JN516x.a(aes_sw_mmo.o)
+                              aes_sw_hmac_mmo.o (symbol from plugin) (AESSW_vMMOBlockUpdate)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libAes_JN516x.a(AEScoprocessorECB.o)
+                              aes_sw_mmo.o (symbol from plugin) (bACI_ECBencodeStripe)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                              C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans2.ltrans.o (memcmp)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+                              C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans0.ltrans.o (memcpy)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                              C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans0.ltrans.o (memset)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                              C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans5.ltrans.o (__udivsi3)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                              C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans6.ltrans.o (__umodsi3)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+                              C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans8.ltrans.o (__modsi3)
+c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                              C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans4.ltrans.o (__udivdi3)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libOS_JN516x.a(os_version_lc.o)
+                              C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans24.ltrans.o (OS_Version_1v2)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_version_lc.o)
+                              C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans7.ltrans.o (ZPS_APL_Version_2v0)
+c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_version_lc.o)
+                              C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans7.ltrans.o (ZPS_NWK_Version_2v0)
+
+Allocating common symbols
+Common symbol       size              file
+
+eSmdsState          0x1               zps_apl_zdo_simple_desc_server.o (symbol from plugin)
+bMiniMacConfig_DiscardUnsuccessfulAssocResponses
+                    0x1               Mini_Association.o (symbol from plugin)
+g_tSpiConfiguration
+                    0x4               AHI_Flash.o (symbol from plugin)
+prMiniMacTofRxHandler
+                    0x4               Mini_Running.o (symbol from plugin)
+prTickTimeAppCallback
+                    0x4               AHI_TickTimer.o (symbol from plugin)
+sMiniMacSecurityPib
+                    0xc               Mini_Main.o (symbol from plugin)
+bAHI_ExtendedTemperatureOperation
+                    0x1               AHI_System.o (symbol from plugin)
+s_sDevicePDDesc     0x18              App_Coordinator.o (symbol from plugin)
+g_bLegacyHwBugEmulation
+                    0x1               AES_CCM_Star.o (symbol from plugin)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 os_gen.o (symbol from plugin)
+ .rodata        0x0000000000000000       0x14 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans1.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans3.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans5.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans6.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans7.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans8.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans9.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans10.ltrans.o
+ .rodata        0x0000000000000000        0x4 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans10.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans11.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans12.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans13.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans15.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans15.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans16.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans17.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans17.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans19.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans19.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans20.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans21.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans21.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans22.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans22.ltrans.o
+ .rodata        0x0000000000000000        0x4 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans22.ltrans.o
+ .rodata        0x0000000000000000       0x10 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans23.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans25.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans26.ltrans.o
+ .rodata        0x0000000000000000        0x4 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans26.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans27.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans28.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans31.ltrans.o
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .data          0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .bss           0x0000000000000000        0x0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .eh_frame      0x0000000000000000       0x38 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .data          0x0000000000000000        0x0 os_irq.o
+ .bss           0x0000000000000000        0x0 os_irq.o
+ .data          0x0000000000000000        0x0 os_irq_alignment.o
+ .bss           0x0000000000000000        0x0 os_irq_alignment.o
+ .data          0x0000000000000000        0x0 os_irq_buserror.o
+ .bss           0x0000000000000000        0x0 os_irq_buserror.o
+ .data          0x0000000000000000        0x0 os_irq_illegalinstruction.o
+ .bss           0x0000000000000000        0x0 os_irq_illegalinstruction.o
+ .data          0x0000000000000000        0x0 os_irq_stackoverflowexception.o
+ .bss           0x0000000000000000        0x0 os_irq_stackoverflowexception.o
+ .data          0x0000000000000000        0x0 os_irq_unimplementedmodule.o
+ .bss           0x0000000000000000        0x0 os_irq_unimplementedmodule.o
+ .text          0x0000000000000000        0x0 pdum_gen.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 pdum_apdu.o
+ .data          0x0000000000000000        0x0 pdum_apdu.o
+ .bss           0x0000000000000000        0x0 pdum_apdu.o
+ .text          0x0000000000000000        0x0 zps_gen.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 app_zbp_utilities.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 app_exceptions.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 app_pdm.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 app_timer_driver.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 app_start.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 App_Coordinator.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 app_endpoint.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AgeChildren.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 haKeys.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 appZpsBeaconHandler.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 appZdpExtraction.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 os.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libOS_JN516x.a(os_contirq_JN516x.o)
+ .bss           0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libOS_JN516x.a(os_contirq_JN516x.o)
+ .text          0x0000000000000000        0x0 pwrm.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPWRM_JN516x.a(pwrm_setjmp_JN516x.o)
+ .bss           0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPWRM_JN516x.a(pwrm_setjmp_JN516x.o)
+ .text          0x0000000000000000        0x0 pwrm_cold_start.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 pwrm_warm_start.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 pdum_nwk.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 pdum_apl.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 pdum.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_af.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_af_apsde.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_task.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_apsde.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_apsme.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_aps_nlde.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_sec.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_aib.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_nwkmanager.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_handle_zdp_event.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_trust_center.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_common.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_default_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_mac_isr.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_end_device_bind_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_nwk_addr_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_ieee_addr_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_match_desc_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_node_desc_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_simple_desc_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_power_desc_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_active_ep_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_device_annce_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_permit_joining_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_system_server_discovery_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_mgmt_lqi_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_mgmt_rtg_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_mgmt_leave_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_mgmt_nwk_update_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_bind_unbind_server.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_bound_data_request_manager.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdo_nwkmanager_client.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_apsde_req.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_mgmt_permit_joining_req.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_nwk_addr_req.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_nwk_addr_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_ieee_addr_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_node_desc_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_power_desc_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_simple_desc_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_active_ep_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_match_desc_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_system_server_discovery_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_end_device_bind_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_bind_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_unbind_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_mgmt_lqi_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_mgmt_rtg_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_mgmt_leave_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_mgmt_nwk_update_notify_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_apl_zdp_mgmt_permit_joining_rsp.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 rnd_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_Create.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_EEPROMsegmentStatus.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystem.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemData.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemDelete.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemGenerate.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemHeaderAccessFunctions.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemHeaderRepair.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemHeaderVerify.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemMove.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemVerify.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_ImageBitmapReconstruct.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SearchAndListOrder.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_Segment.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentData.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentReplace.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentSequenceExtendDelete.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentSequenceExtendReconstruct.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentSequenceSave.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_slist.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_WearLevelling.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_Bitmap.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_EEPROMheaderAccessFunctions.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_EEPROMheaderReadAndWrite.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_EEPROMReadAndWrite.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_FileSystemHeaderChecksum.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_RAMBitmap.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_SegmentSequenceExtendFilter.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 PDM_EEPROM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 dbg.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 dbg_uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 dbg_exceptions.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_dcim.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_lib.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_lkst.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_maint.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_mcps.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_mlme.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_nib.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_nlde.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_nlme.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_pmjn.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_rt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_sec.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_slist.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_actv_st.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_btt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_disc.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_disc_st.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_form_st.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_frm.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_idle_st.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_join.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_join_st.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_leave.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_mac.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_scan.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_sync.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_nwk_form.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Main.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Mcps.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_TimerServer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_TxRx.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Endian.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Association.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Running.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Scan.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Poll.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 Mini_Shim.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MMAC.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MMAC_RadioInit_JN516x.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorAPI.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AES_CCM_Star.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Dio.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Reset.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_System.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Timer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_TimerInt.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Uart.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_WakeTimer.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Flash.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_Infrared.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 InternalFlashApi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 EEP_EEPROM.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AHI_TickTimer.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+ .bss           0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+ .text          0x0000000000000000        0x0 AHI_Spi.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 MicroInt_ba.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .data          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .bss           0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+ .text          0x0000000000000000        0x0 Heap.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .data          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .bss           0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .vsr_handlers  0x0000000000000000       0xa7 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+ .text          0x0000000000000000        0x0 zps_miniMac.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 zps_tsv.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aes_sw_hmac_mmo.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 aes_sw_mmo.o (symbol from plugin)
+ .text          0x0000000000000000        0x0 AEScoprocessorECB.o (symbol from plugin)
+ .data          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libOS_JN516x.a(os_version_lc.o)
+ .bss           0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libOS_JN516x.a(os_version_lc.o)
+ .data          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_version_lc.o)
+ .bss           0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_version_lc.o)
+ .data          0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_version_lc.o)
+ .bss           0x0000000000000000        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_version_lc.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash            0x0000000000080000 0x0000000000040000
+ram              0x000000000400004c 0x0000000000007fb4
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD os_gen.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans0.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans1.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans2.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans3.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans4.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans5.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans6.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans7.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans8.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans9.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans10.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans11.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans12.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans13.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans14.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans15.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans16.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans17.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans18.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans19.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans20.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans21.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans22.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans23.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans24.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans25.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans26.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans27.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans28.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans29.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans30.ltrans.o
+LOAD C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans31.ltrans.o
+LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a
+LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD os_irq.o
+LOAD os_irq_alignment.o
+LOAD os_irq_buserror.o
+LOAD os_irq_illegalinstruction.o
+LOAD os_irq_stackoverflowexception.o
+LOAD os_irq_unimplementedmodule.o
+LOAD pdum_gen.o
+LOAD pdum_apdu.o
+LOAD zps_gen.o
+LOAD app_zbp_utilities.o
+LOAD app_exceptions.o
+LOAD app_pdm.o
+LOAD app_timer_driver.o
+LOAD app_start.o
+LOAD App_Coordinator.o
+LOAD app_endpoint.o
+LOAD AgeChildren.o
+LOAD haKeys.o
+LOAD appZpsBeaconHandler.o
+LOAD appZdpExtraction.o
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSMAC_Mini_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libOS_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPWRM_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSTSV_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libAES_SW_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDUM_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libRandom_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPDM_EEPROM_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libDBG_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMiniMac_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMiniMacShim_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMMAC_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libAes_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMicroSpecific_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libBoot_JN516x.a
+LOAD c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Platform/DK4/Library\libBoardLib_JN516x.a
+END GROUP
+LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a
+LOAD c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a
+                0x00000000000003e8                _minimum_heap_size = 0x3e8
+                0x0000000000000dac                _stack_size = 0xdac
+                0x0000000000080038                _exception_vsr_table = 0x80038
+                0x0000000004000000                pSPIflashFncTable = 0x4000000
+                0x00000000000003e8                _minimum_heap_size = 0x3e8
+                0x0000000000000dac                _stack_size = 0xdac
+                0x0000000000000044                restore_state = 0x44
+                0x000000000000004a                bZSPIWaitWIPClear = 0x4a
+                0x0000000000000050                u16ZSPIflashRDID = 0x50
+                0x0000000000000056                u8SelectFlashChipType = 0x56
+                0x000000000000005c                memcpy = 0x5c
+                0x0000000000000066                vBootFlashProg = 0x66
+                [0x00000000000003e8]                _minimum_heap_size = DEFINED (_minimum_heap_size)?_minimum_heap_size:0xd16
+                0x0000000000000000                _SwConfig = (DEFINED (g_bSWConf_Debug) | (DEFINED (g_bSWConf_AltDebugPort) << 0x1))
+
+.version        0x000000000007fffc        0x4
+                0x000000000007fffc        0x4 LONG 0x7030008
+
+.bir            0x0000000000080000       0x10
+                0x0000000000080000                _flash_start = ABSOLUTE (.)
+                0x0000000000080000                _flash_beg = ABSOLUTE (.)
+                0x0000000000080000        0x4 LONG 0x12345678
+                0x0000000000080004        0x4 LONG 0x11223344
+                0x0000000000080008        0x4 LONG 0x55667788
+                0x000000000008000c        0x1 BYTE 0x8
+                0x000000000008000d        0x1 BYTE 0x1
+                0x000000000008000e        0x2 SHORT 0x0
+
+.flashheader    0x0000000000080010       0x28
+                0x0000000000080010        0x4 LONG 0x0
+                0x0000000000080014        0x4 LONG 0x0
+                0x0000000000080018        0x4 LONG 0x0
+                0x000000000008001c        0x2 SHORT 0x0
+                0x000000000008001e        0x2 SHORT 0x0 ABSOLUTE (_SwConfig)
+                0x0000000000080020                _enc_start = ABSOLUTE (.)
+                0x0000000000080020        0x4 LONG 0x1a5b8 ABSOLUTE (_image_len)
+                0x0000000000080024        0x4 LONG 0x99f00 ABSOLUTE (_flash_data_start)
+                0x0000000000080028        0x2 SHORT 0x13 ((ABSOLUTE (_ram_data_start) / 0x4) & 0xffff)
+                0x000000000008002a        0x2 SHORT 0x1ae ((ABSOLUTE (_ram_data_len) / 0x4) & 0xffff)
+                0x000000000008002c        0x2 SHORT 0x1c1 ((ABSOLUTE (_bss_start) / 0x4) & 0xffff)
+                0x000000000008002e        0x2 SHORT 0xcbc ((ABSOLUTE (_bss_len) / 0x4) & 0xffff)
+                0x0000000000080030        0x4 LONG 0x9509a ABSOLUTE (AppWarmStart)
+                0x0000000000080034        0x4 LONG 0x950a5 ABSOLUTE (AppColdStart)
+                0x0000000000000000                _enc_offset = (_enc_start & 0xf)
+
+.rodata         0x0000000000080038      0xca1
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000000080038       0x6d C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans0.ltrans.o
+ .rodata.str1.1
+                0x00000000000800a5      0x377 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans1.ltrans.o
+                                        0x3b3 (size before relaxing)
+ .rodata        0x000000000008041c       0x30 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans2.ltrans.o
+ .rodata.str1.1
+                0x0000000000000000      0x377 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans2.ltrans.o
+                                          0x8 (size before relaxing)
+ .rodata.str1.1
+                0x000000000008044c        0x6 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans3.ltrans.o
+                                          0xe (size before relaxing)
+ *fill*         0x0000000000080452        0x2 00
+ .rodata        0x0000000000080454       0x10 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans3.ltrans.o
+ .rodata        0x0000000000080464       0x10 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans4.ltrans.o
+                0x000000000008046c                au32UartAddrOffset
+ .rodata.str1.1
+                0x0000000000080474        0x3 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans4.ltrans.o
+ .rodata        0x0000000000080477       0x10 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans5.ltrans.o
+                0x0000000000080477                au8FlashWaitStatesHSRCO.93077
+                0x000000000008047f                au8FlashWaitStates32MXO.93076
+ .rodata.str1.1
+                0x0000000000000000        0x3 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans6.ltrans.o
+ .rodata.str1.1
+                0x0000000000080487      0x10d C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans7.ltrans.o
+                                        0x16c (size before relaxing)
+ .rodata        0x0000000000080594       0x20 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans8.ltrans.o
+                0x0000000000080594                au32NwkPdmRecordOffsets
+ .rodata.str1.1
+                0x00000000000805b4        0xb C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans9.ltrans.o
+                                         0x10 (size before relaxing)
+ .rodata.str1.1
+                0x00000000000805bf       0x10 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans10.ltrans.o
+                                         0x22 (size before relaxing)
+ *fill*         0x00000000000805cf        0x1 00
+ .rodata        0x00000000000805d0       0x38 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans12.ltrans.o
+                0x00000000000805d0                s_aprIdleStHandleCme.84694
+                0x00000000000805e4                s_aprActvStHandleCme.80858
+ .rodata.str1.1
+                0x0000000000000000       0x10 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans13.ltrans.o
+                                          0xc (size before relaxing)
+ .rodata.str1.1
+                0x0000000000080608       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans15.ltrans.o
+                                         0x2f (size before relaxing)
+ .rodata.str1.1
+                0x000000000008061a        0x6 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans16.ltrans.o
+ .rodata.str1.1
+                0x0000000000000000        0x6 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans17.ltrans.o
+ .rodata        0x0000000000080620       0x48 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans17.ltrans.o
+ .rodata.str1.1
+                0x0000000000080668       0x32 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans18.ltrans.o
+                                         0x56 (size before relaxing)
+ .rodata.str1.1
+                0x0000000000000000        0x4 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans19.ltrans.o
+ .rodata.str1.1
+                0x000000000008069a        0x7 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans20.ltrans.o
+                                         0x16 (size before relaxing)
+ .rodata.str1.1
+                0x0000000000000000        0x7 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans21.ltrans.o
+                                          0x4 (size before relaxing)
+ .rodata.str1.1
+                0x00000000000806a1       0x4a C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans24.ltrans.o
+                                         0x6c (size before relaxing)
+ *fill*         0x00000000000806eb        0x1 00
+ .rodata        0x00000000000806ec      0x3cc C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans24.ltrans.o
+                0x00000000000806ec                zps_g_pvApl
+                0x00000000000806f0                pwrm_psWakeupCallbacks
+ .rodata.str1.1
+                0x0000000000080ab8        0x5 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans25.ltrans.o
+                                         0x13 (size before relaxing)
+ *fill*         0x0000000000080abd        0x3 00
+ .rodata        0x0000000000080ac0       0x94 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans25.ltrans.o
+                0x0000000000080ac0                zps_pacNwkFrmStdByteFmt
+                0x0000000000080ac4                zps_pacNwkFrmStdLongFmt
+                0x0000000000080ac8                zps_pacNwkFrmStdHalfFmt
+ .rodata        0x0000000000080b54        0x6 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans27.ltrans.o
+ .rodata.str1.1
+                0x0000000000080b5a       0x4c C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans29.ltrans.o
+ .rodata.str1.1
+                0x0000000000080ba6        0x7 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans30.ltrans.o
+                                         0x11 (size before relaxing)
+ *fill*         0x0000000000080bad        0x3 00
+ .rodata        0x0000000000080bb0      0x124 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans30.ltrans.o
+                0x0000000000080bb0                g_bStopZdpAcks
+ .rodata.str1.1
+                0x0000000000080cd4        0x5 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans31.ltrans.o
+                                         0x16 (size before relaxing)
+
+.text           0x0000000000080ce0    0x1921e
+ *(.text*)
+ .text          0x0000000000080ce0     0x1418 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans0.ltrans.o
+                0x0000000000080ce0                APP_TIMER_Version_1v0
+                0x0000000000080ce0                vInitialiseApp.3712
+ .text          0x00000000000820f8     0x119c C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans1.ltrans.o
+                0x00000000000820f8                os_vAPP_taskCoordinator
+ .text          0x0000000000083294      0xffe C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans2.ltrans.o
+                0x0000000000083294                DBG_iUartGetChar
+                0x00000000000832f1                eBasicTxCompleteHandler
+                0x00000000000832f6                vTxRxTimeout.90714
+                0x0000000000083356                eSmeAcScBeaconInd.82805
+                0x00000000000833b2                eSmeASFlBeaconInd.82642
+                0x00000000000833d4                eSmeUDNTScanDcfm.82095
+                0x000000000008345b                zps_eNwkHandleSmePollDcfm
+                0x0000000000083485                eLeaveDataDcfmRemoteLeave.87331
+                0x00000000000834cb                eSmeGenlScanDcfm.82634
+                0x0000000000083529                eSmeEdScScanDcfm.82630
+                0x00000000000836d0                eSmeAcScBeaconInd.82650
+                0x00000000000837d8                eSmeUDNTBeaconInd.82626
+                0x00000000000837fb                ZPS_eTsvOpen
+                0x0000000000083815                zps_vNwkBttMgrInit
+                0x0000000000083843                vMiniMac_ReturnTxBufferCallback
+                0x0000000000083855                vEnableReceive.90719
+                0x0000000000083885                pvHeap_Alloc
+                0x0000000000083888                vMicroIntRestoreState
+                0x0000000000083894                bAHI_WriteEEPROMfixSegmentData
+                0x00000000000838f2                bAHI_InitialiseEEPROM
+                0x000000000008393a                vAHI_ReadDataFromEEPROMregister
+                0x0000000000083967                vAHI_WriteDataIntoEEPROMregister
+                0x0000000000083997                iPDM_WriteSegmentHeaderDataIntoEEPROMsegment
+                0x00000000000839c6                u8AHI_WakeTimerFiredStatus
+                0x00000000000839da                vAHI_WakeTimerStop.part.3.93571
+                0x00000000000839fa                vAHI_UartReset.part.4.93325
+                0x0000000000083a32                vAHI_OptimiseWaitStates
+                0x0000000000083a7e                vAHI_CpuDoze
+                0x0000000000083a91                vAHI_SwReset
+                0x0000000000083aa2                vAHI_DioSetPullup
+                0x0000000000083ac2                vAHI_DioSetOutput
+                0x0000000000083ad6                vAHI_DioSetDirection
+                0x0000000000083aea                vEcbEncodeStripe.92785
+                0x0000000000083b41                bIssueACIcommand
+                0x0000000000083bd7                AESSW_vMMOBlockUpdate
+                0x0000000000083c49                MAC_u64GetExtAddr
+                0x0000000000083c64                ZPS_u64NwkNibFindExtAddr
+                0x0000000000083d0f                ZPS_u16NwkNibFindNwkAddr
+                0x0000000000083db5                psSearchForFrameToSend
+                0x0000000000083e03                eMiniMac_FrameInProgress
+                0x0000000000083e2e                vRemoveFromTxQueue
+                0x0000000000083e6a                vAddToTxQueue
+                0x0000000000083ea0                u8GetHeaderSize
+                0x0000000000083ec8                vMiniMac_MLME_SetReq_MinBe
+                0x0000000000083eed                zps_vSendJoinInd
+                0x0000000000083f5e                zps_psFormatCmdFrameGeneral
+                0x0000000000083fd9                zps_eNwkFormStInit
+                0x0000000000083fee                vSendDcfm.83323
+                0x0000000000084013                bCheckMatchingEntry.82800
+                0x0000000000084039                zps_psNwkSlistRemoveFromHead
+                0x0000000000084050                zps_psNwkSlistRemove
+                0x0000000000084088                zps_bNwkMcpsMgrRemoveDescrFromLists
+                0x00000000000840c6                zps_vNwkSlistAddToTail
+                0x00000000000840e0                ZPS_vNwkSecResetDevice
+                0x0000000000084125                ZPS_bNwkSecHaveNetworkKey
+                0x0000000000084159                ZPS_bNwkSecFindMatSet
+                0x0000000000084195                zps_eNwkRtMatch
+ .text          0x0000000000084292      0xfdf C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans3.ltrans.o
+                0x0000000000084292                DBG_vUartFlush
+                0x00000000000842bf                DBG_vUartPutch
+                0x0000000000084305                boIdValueSearchMatch.69487
+                0x000000000008435f                vRadioToOff
+                0x000000000008437c                vStartReceive
+                0x000000000008438b                vMiniMac_NextTransaction
+                0x00000000000843f5                vMiniMac_Init
+                0x00000000000846fb                eTransmit
+                0x00000000000847d8                vPostTxActions.90805
+                0x0000000000084815                vMiniMac_TxComplete
+                0x00000000000849a1                iPDM_FilterDuplicateAppendedSegmentsOnList.70651
+                0x00000000000849f7                vDispatch.6075
+                0x0000000000084ac9                OS_eStartSWTimer.constprop.86
+                0x0000000000084be8                OS_eActivateTask.constprop.18
+                0x0000000000084c8c                OS_eStopSWTimer
+                0x0000000000084daf                os_vAPP_taskBlinkLED
+                0x0000000000084e1b                OS_ePostMessage
+                0x0000000000084f81                vPostMlmeDcfmInd.23815
+                0x000000000008501e                OS_eExitCriticalSection
+                0x0000000000085103                u8ZdoEndDeviceBindServerUnpackApdu
+                0x0000000000085193                u8ZdoBindUnbindServerUnpackApdu
+                0x00000000000851e2                zps_psNwkMcpsMgrFindPendingByNwkDstAddr
+                0x0000000000085218                iPDM_ReadSegmentHeaderDataFromEEPROMsegment
+ .text          0x0000000000085271      0xbd6 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans4.ltrans.o
+                0x00000000000852a7                os_vAPP_cbDisableTickTimer
+                0x00000000000852eb                os_vAPP_cbEnableTickTimer
+                0x000000000008536b                eOrphanNotificationSent.91487
+                0x00000000000853b4                DBG_vUartInitHardware
+                0x00000000000854f1                dbg_vPrintfImplNoneVerbose
+                0x0000000000085978                ZPS_bSecDecrypt
+                0x0000000000085a8a                boPDM_IsBitmapSaturated.70370
+                0x0000000000085ad3                iPDM_SearchForBufferIdInList
+                0x0000000000085b08                iPDM_SearchForBufferIdInFileSystem
+                0x0000000000085b1b                iPDM_GetLengthOfDataInBufferWithIdFromFileSystem
+                0x0000000000085b77                iPDM_SearchForSpecificSegmentInList
+                0x0000000000085ba9                psGetTxFrameBuffer
+                0x0000000000085be2                psGetAndBuildCoordRealignment
+                0x0000000000085c3a                eBuildAndSend.91495
+                0x0000000000085caf                vPDM_WriteFileSystemRecordAndSegmentDataIntoEEPROMsegment
+                0x0000000000085cf2                iPDM_ReadUserDataFromEEPROMsegment
+                0x0000000000085d6e                iPDM_ReadUserDataFromFileSystemRecord
+                0x0000000000085d98                iPDM_ReadUserDataFromSegmentWithId
+                0x0000000000085dcd                iPDM_ReCalculateWearCountAndChecksumAndWriteFileSystemHeader
+                0x0000000000085e17                vPDM_SetEEPROMandFileSystemValidState
+                0x0000000000085e3e                MAC_vPibSetRxOnWhenIdle.constprop.74
+ .text          0x0000000000085e47      0xca2 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans5.ltrans.o
+                0x0000000000085e47                os_u32APP_cbGetTickTimer
+                0x0000000000085e50                os_bAPP_cbSetTickTimerCompare
+                0x00000000000860ae                u16PDM_CalculateRecordChecksum
+                0x0000000000086159                PWRM_vWakeInterruptCallback
+                0x00000000000861e0                PWRM_vManagePower
+                0x000000000008631d                ZPS_vNwkNibClearTables
+                0x0000000000086438                zps_vBuildSortedActvNTList
+                0x00000000000864de                zps_vCheckActvNtForDuplicate
+                0x0000000000086539                zps_vTidyActvNtAfterJoin
+                0x0000000000086587                eUnsolicitedRejoinRspDataDcfm.73686
+                0x00000000000865b2                vDisplayNT
+                0x00000000000865cc                ZPS_vRemoveMacTableEntry
+                0x00000000000866ef                vMicroIntEnableOnly.constprop.85
+                0x000000000008671b                vSetChannelAndPower
+                0x00000000000867b9                vMiniMac_MLME_SetReq_PanId
+                0x00000000000867f6                vMiniMac_MLME_SetReq_ShortAddr
+                0x0000000000086804                iAHI_WriteDataIntoEEPROMsegment.constprop.68
+                0x0000000000086852                vACI_OptimisedCcmStar.constprop.29
+                0x0000000000086a3d                vSendRouteDiscoveryDcfm.78839.constprop.28
+                0x0000000000086a66                zps_eNwkRtDiscMatch.constprop.26
+                0x0000000000086ab9                vTransformKey.isra.0.14748
+ .text.unlikely
+                0x0000000000086ae9       0xcd C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans5.ltrans.o
+ .text          0x0000000000086bb6      0xfc0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans6.ltrans.o
+                0x0000000000086bb6                vPermitJoinHandleExpiry.77682
+                0x0000000000086bbf                vNwkMcpsTimerCallback
+                0x0000000000086bd9                zps_eSceGenlIllegal
+                0x0000000000086be0                zps_eSmeGenlIllegal
+                0x0000000000086be7                DBG_vUartFailedAssert
+                0x0000000000086beb                zps_bAplZdoBindRequestServer
+                0x0000000000086d15                vZdoEndDeviceBindTimeoutSecondMessage
+                0x0000000000086d29                psGetVsMcpsBuf.23826
+                0x0000000000086d32                psGetMlmeBuf.23812
+                0x0000000000086d3b                psGetMcpsBuf.23819
+                0x0000000000086d44                zps_vExpireRequestKeyReq.21159
+                0x0000000000086d51                vLoopbackTimerCallback
+                0x0000000000086d80                zps_eNwkRctMatchNwkAddr
+                0x0000000000086dea                ZPS_u8NwkCalcNldeReqOverhead
+                0x0000000000086e25                zps_vRemoveNextHop
+                0x0000000000086eb3                zps_vRemoveRoute
+                0x0000000000086f4e                zps_psNwkRtMatchNwkAddr
+                0x0000000000086f9d                ZPS_u64NwkNibGetMappedIeeeAddr
+                0x0000000000086fbf                ZPS_bNwkNibNtActvMatch
+                0x0000000000087077                bCheckNwkAddr
+                0x00000000000870c5                vDisplayAddressMapTable
+                0x00000000000870df                zps_eAplTrustCenterFindDevice
+                0x0000000000087123                ZPS_vSetExtendedStatus
+                0x0000000000087135                zps_psApsApsAllocateDcfmRecord
+                0x00000000000871a3                zps_u8CalcLinkCost
+                0x00000000000871df                ZPS_u8NwkNibNtDiscMatch
+                0x00000000000872c3                zps_u64NwkLibFromPayload
+                0x0000000000087302                zps_vNwkLibU64ToPayload
+                0x000000000008732f                zps_vInitBeaconPayload
+                0x00000000000873ab                ZPS_vNtSetUsedStatus
+                0x0000000000087419                zps_eNwkDcfmIndPost
+                0x000000000008743c                zps_psNwkDcfmIndGetBuf
+                0x000000000008745e                eRouteRequestDataDcfm.78844
+                0x00000000000874b2                eNldeDataDcfm.76696
+                0x00000000000874e2                zps_vSendNwkStatusInd
+                0x0000000000087512                DBG_vInit
+                0x0000000000087554                vPDM_ReadBitmapHeader.70334
+                0x0000000000087573                psSLISTsearch
+                0x00000000000875b3                psSLISTremove
+                0x0000000000087631                psSLISTgetNext
+                0x0000000000087655                u8PDM_CalculateFileSystemCapacity
+                0x0000000000087673                u8PDM_CalculateLargestDataRecordStored
+                0x00000000000876a4                bPDM_ImageBitmapRepairCheck
+                0x00000000000876cc                u8PDM_ReadSequenceNumber
+                0x00000000000876ef                boSegmentNumberDeleteSearchMatch.69912
+                0x000000000008770a                u32PDM_ReadFileSystemHeaderWearCount
+                0x0000000000087720                boSearchForWearCountSubstitute.70234
+                0x0000000000087746                boSearchForWearCountInsertPoint.69483
+                0x0000000000087764                vPDM_WriteFileSystemHeaderWearCount
+                0x0000000000087776                u8PDM_CalculateSegmentsRequired.part.0.68619
+                0x00000000000877a4                RND_u32GetRand256
+                0x00000000000877c1                RND_u32GetRand
+                0x00000000000877e8                u16CalculateFailedTxCount.43062
+                0x0000000000087812                bFindMatch.26451
+                0x0000000000087870                zps_bAplZdoServerHandleConfirmAcks
+                0x00000000000878ba                zps_bPerformLeaveActionDecider
+                0x00000000000878bf                vHandleUpdateDeviceIndication.18225
+                0x00000000000878e9                u32GetScanChannels.18212
+                0x0000000000087914                bDuplicateCheck.13491
+                0x0000000000087a03                zps_vInitAPSMECmdHdr
+                0x0000000000087a3c                bIsBindTableMatch.13216
+                0x0000000000087a8d                eRemoveEntryInBindingTable.13244
+                0x0000000000087b0c                zps_vAplApsFillAndPostApsAck
+ .text          0x0000000000087b76      0xf54 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans7.ltrans.o
+                0x0000000000087b76                PDUM_hAPduAllocateAPduInstance
+                0x0000000000087bea                zps_eAplZdoSendZdpResponse
+                0x0000000000087c33                bSendResponse.41885
+                0x0000000000087c76                PDUM_eAPduFreeAPduInstance
+                0x0000000000087cf9                zps_bAplZdoNodeDescServer
+                0x0000000000087e95                zps_bAplZdoSimpleDescServer
+                0x000000000008809b                zps_bAplZdoPowerDescServer
+                0x00000000000881e8                zps_bAplZdoActiveEpServer
+                0x0000000000088301                zps_bAplZdoSystemServerDiscoveryServer
+                0x00000000000883be                zps_bAplZdoMgmtLqiServer
+                0x00000000000885db                zps_bAplZdoMgmtRtgServer
+                0x000000000008870b                os_vAPP_taskMyEndPoint
+                0x00000000000887a0                vReset_StateMachine.26494
+                0x00000000000887e4                vZdoServersInit.2778
+                0x00000000000889a0                zps_bAplZdoEndDeviceBindServer
+                0x0000000000088a58                vLoadNwkRecord.75491
+                0x0000000000088a96                vLoadAplRecord.18252
+ .text          0x0000000000088aca      0x95f C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans8.ltrans.o
+                0x0000000000088aca                iPDM_WriteSegmentHeaderAndData
+                0x0000000000088cd3                iPDM_SegmentCopyAndAppendData.constprop.79
+                0x0000000000088d2d                iPDM_ReconstructReplacedDataTable
+                0x0000000000088ed4                iPDM_ReplaceChangedSegmentInSequence
+                0x0000000000089126                PDM_eSaveRecordData
+                0x00000000000893fd                ZPS_vNwkSaveRecord
+ .text          0x0000000000089429      0xe55 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans9.ltrans.o
+                0x0000000000089429                vMcpsMgrTimeoutExpiry
+                0x000000000008949b                zps_vNwkMcpsMgrPost
+                0x00000000000894c0                zps_psNwkSendRejoinReqCmd.constprop.12
+                0x000000000008951b                zps_u8NwkHandleRejoinReq
+                0x00000000000895d3                vContinueRejoin.85163
+                0x000000000008968d                zps_psSendNetworkStatusCmd
+                0x00000000000896fa                zps_eDefaultDataDcfm
+                0x000000000008986a                vSendNetworkReport.73674
+                0x0000000000089a27                zps_eNwkHandleSceRouteRequest
+                0x0000000000089d3e                zps_eNwkHandleSceRouteReply
+                0x000000000008a026                zps_vNwkHandleCmeLeaveReq
+                0x000000000008a0f4                zps_eNwkHandleSceLeave
+ .text          0x000000000008a27e      0xd84 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans10.ltrans.o
+                0x000000000008a27e                zps_psNwkInitiateRouteDiscovery
+                0x000000000008a534                zps_psSendFrm
+                0x000000000008a800                zps_psSendBroadcastFrm.part.0.83964
+                0x000000000008a85e                ZPS_vNwkHandleNldeReqRsp
+                0x000000000008ab3c                zps_eAplSendApsmeCmdFrame
+                0x000000000008acab                zps_eAplApsmeUpdateDeviceReqRsp.part.4.13373
+                0x000000000008adee                zps_eAplApsmeRemoveDeviceReqRsp
+                0x000000000008ae5c                zps_vAplApsmeCmdMgrRetryTimeout.13208
+                0x000000000008ae85                zps_eNwkHandleSceRouteRecord
+                0x000000000008af34                zps_vProcessLocalAddrConflict
+ *fill*         0x000000000008b002        0x2 00
+ .text          0x000000000008b004      0xdb0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans11.ltrans.o
+                0x000000000008b1b9                vPollTimeout.91654
+                0x000000000008b304                vSendMlmeCommStatusFromTxFrame
+                0x000000000008b35a                MAC_vHandleMlmeVsReqRsp.constprop.81
+                0x000000000008b89e                vScanBeaconReceived
+                0x000000000008b8e9                vRunningRxCallback
+                0x000000000008bbac                vPostDcfm.91506
+                0x000000000008bc1b                vScanNextChannel.91512
+ .text          0x000000000008bdb4      0xb94 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans12.ltrans.o
+                0x000000000008bdb4                vMiniMac_InterruptHandler
+                0x000000000008c11d                eAssocRespSent.91077
+                0x000000000008c13c                zps_vNwkHandleCmeSyncReq
+                0x000000000008c1be                zps_vNwkHandleCmeIdleNwkFormReq
+                0x000000000008c266                zps_vNwkHandleCmeNwkDiscReq
+                0x000000000008c2e0                zps_vNwkHandleCmeEdScanReq
+                0x000000000008c415                zps_eNwkHandleSmeBeaconNotifyInd
+                0x000000000008c499                zps_eNwkHandleSceNwkReport
+                0x000000000008c517                zps_vNwkHandleCmeNwkJoinReq
+                0x000000000008c791                zps_vNwkHandleCmeNwkActvJoinReq
+                0x000000000008c79d                eSmeEdScScanDcfm.83332
+                0x000000000008c82d                vHandleRejoinExpiry.85903
+                0x000000000008c88b                zps_eRejoinDataDcfm
+                0x000000000008c8cf                eSmeAsocAssocDcfm.86511
+ .text          0x000000000008c948      0xc94 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans13.ltrans.o
+                0x000000000008cadb                vZdoEndDeviceBindStateIdle
+                0x000000000008ce9d                zps_bAplZdoMatchDescServer
+                0x000000000008cee8                zps_bAplZdoNwkAddrServer
+                0x000000000008d0a5                zps_bAplZdoIeeeAddrServer
+                0x000000000008d234                PDUM_eNPduFree
+                0x000000000008d2a1                vPostVsMcpsDcfmInd.23829
+                0x000000000008d364                zps_vNwkMcpsMgrFreeReqDescr
+                0x000000000008d38e                zps_vNwkRemoveConflictedBroadcast
+                0x000000000008d3e0                vFreePendingReqDescr
+                0x000000000008d420                vHandleRouteDiscoveryExpiry.78408
+                0x000000000008d47b                zps_vNwkMcpsMgrTidyBtrReqDescr
+                0x000000000008d4be                vNwkBttTimerExpiry.80904
+ .text          0x000000000008d5dc      0xb13 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans14.ltrans.o
+                0x000000000008d5dc                eBeaconReqSent.91491
+                0x000000000008d603                vPDM_AddFileSystemElementToListInAscendingWearCountOrder
+                0x000000000008d6fa                vPDM_MoveAllDataFromListToList
+                0x000000000008d738                vPDM_MoveAllDataToDeAllocList.constprop.80
+                0x000000000008d763                vPDM_MoveAllDataWithBufferIdAndStateFromListToList
+                0x000000000008d7ee                vPDM_MoveAllDataWithBufferIdFromListToList
+                0x000000000008d873                vPDM_DeleteAllSegmentsWithIdFromFileSystemList.constprop.62
+                0x000000000008d8b5                vPDM_MoveFileRecordFromListToList
+                0x000000000008d9c4                iPDM_VerifyDataSequenceWithBufferId
+                0x000000000008da6a                vPDM_MoveRecordToDeAllocList
+                0x000000000008da8a                vPDM_DeleteAppendedSequence
+                0x000000000008db2c                zps_vSendJoinDcfm
+                0x000000000008db72                vGiveUp.85907
+                0x000000000008db9b                ZPS_bSecEncrypt
+                0x000000000008dd51                PDUM_eNPduAllocate
+                0x000000000008ddc0                vPostMcpsDcfmInd.23822
+                0x000000000008df16                zps_u8AplApsConstructAndPostLoopBackDataInd.11840
+                0x000000000008e06a                u8PostUnicastMsgToNHLE.11848
+                0x000000000008e0a3                PDUM_eNPduClone
+ *fill*         0x000000000008e0ef        0x1 00
+ .text          0x000000000008e0f0      0xc34 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans15.ltrans.o
+                0x000000000008e0f0                vApsmeResendTimeOutHandler
+                0x000000000008e2fe                vPostNldeDcfmInd.9266
+ .text          0x000000000008ed24      0xbdf C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans16.ltrans.o
+                0x000000000008edce                zps_eNwkHandleSceLinkStatus
+                0x000000000008eee1                vPDM_ImageBitmapRepair.69402
+                0x000000000008ef42                zps_vAplSaveRecord
+                0x000000000008efdb                bAplZdoBindUnbindServerProcessApdu
+                0x000000000008f2ee                zps_psFindKeyDescr
+                0x000000000008f41a                zps_eAplSecEncryptPacket
+                0x000000000008f50c                zps_vSaveAllZpsRecords
+                0x000000000008f52c                vAplSecRemoveLinkKey.18317
+                0x000000000008f5a9                zps_psNwkInitCmdFrame
+                0x000000000008f742                zps_vLinkStatusHandleExpiry
+                0x000000000008f7c8                vSendNetworkUpdate.73678
+ .text.unlikely
+                0x000000000008f903       0x5c C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans16.ltrans.o
+                0x000000000008f903                vInitUnknownNeighbor.74567
+ .text          0x000000000008f95f      0xb93 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans17.ltrans.o
+                0x000000000008f95f                ZPS_vNwkHandleNlmeReqRsp
+                0x000000000008f9dc                zps_vAplAfPostEvent
+                0x000000000008fddf                vPostApsdeDcfmInd.9259
+                0x000000000008ffe7                zps_vHandleApsdeDataFragIndNotSupported
+                0x000000000009012c                zps_bAplZdoMgmtLeaveServer
+                0x000000000009029f                zps_eAplZdoPermitJoining.constprop.65
+                0x00000000000902c5                zps_bAplZdoPermitJoiningServer
+                0x0000000000090396                vChangeChannelTimerExpiry.43054
+                0x0000000000090405                eLeaveReset.87326
+                0x000000000009047b                eLeaveDataDcfmLocalLeave.87336
+ .text          0x00000000000904f2      0xb78 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans18.ltrans.o
+                0x00000000000904f2                zps_bAplZdoDefaultServer
+                0x000000000009076d                zps_eZdpNodeDescResponse
+                0x0000000000090815                zps_eZdpSimpleDescResponse
+                0x0000000000090922                zps_bAplZdoMgmtNWKUpdateServer
+                0x0000000000090c1c                zps_eZdpNwkAddrResponse
+                0x0000000000090cff                zps_eZdpIeeeAddrResponse
+                0x0000000000090de2                zps_eZdpPowerDescResponse
+                0x0000000000090ef7                os_vAPP_AgeOutChildren
+ *fill*         0x000000000009106a        0x2 00
+ .text          0x000000000009106c      0xc88 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans19.ltrans.o
+                0x000000000009112f                zps_eNwkHandleSceNwkStatus
+                0x0000000000091490                zps_eNwkHandleSmeAssocInd
+                0x00000000000914b2                zps_eNwkHandleSceRejnRequest
+                0x0000000000091501                eTryNextParent
+                0x0000000000091640                eSmeRjPCPollDcfm.86507
+                0x0000000000091681                eSceRjRsRejoinRsp.86475
+                0x0000000000091736                vCheckSleepingSendPoll.part.1.86453
+                0x00000000000917a0                zps_eProcessAddrConflict
+                0x000000000009194d                ZPS_vNwkNibCheckAndUpdateAddresses
+                0x00000000000919ae                zps_bAplZdoDeviceAnnceServer
+ .text          0x0000000000091cf4      0xbd0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans20.ltrans.o
+                0x0000000000091cf4                vMcpsMgrExpiry.74555
+                0x0000000000091d53                zps_vNwkHandleCmeRouteDiscoveryReq
+                0x0000000000091dd9                vMiniMac_MlmeCallback
+                0x00000000000920de                vMiniMacPoll_CheckPollResponse
+                0x0000000000092106                ePollReqSent.91656
+                0x0000000000092151                ZPS_vNwkResetOutgoingFrameCounter
+                0x00000000000921a5                zps_vAplTrustCenterInit
+                0x0000000000092274                eUnfragmentedUnicastTransmission.11822
+                0x00000000000925ce                zps_eAplApsmeTransportKeyReqRsp.constprop.8
+                0x0000000000092751                zps_vAplTrustCenterRequestKey
+ .text          0x00000000000928c4      0xa40 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans21.ltrans.o
+                0x0000000000092973                zps_eNwkHandleSmeOrphanInd
+                0x0000000000092983                vStartScanTimerExpiry.43058
+                0x00000000000929bf                vPostNlmeDcfmInd.9245
+                0x000000000009316e                zps_eNwkSendJoinResponse
+ .text          0x0000000000093304      0xa30 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans22.ltrans.o
+                0x0000000000093304                zps_vAplApsPollTimer
+                0x0000000000093366                vAplSecAuthPollTimerExpiry.18207
+                0x00000000000934ce                zps_vAplTrustCenterUpdateDevice
+                0x0000000000093635                vAplSecAuthTimerExpiry.18203
+                0x0000000000093705                eRejoinNetwork.18239.constprop.64
+                0x00000000000937a1                eStartNetworkDiscovery.18279
+                0x000000000009380b                zps_eAplZdoStartStack
+                0x0000000000093913                eStartRouter.18289
+                0x00000000000939e2                vPostApsmeDcfmInd.9252
+ .text          0x0000000000093d34      0xc29 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans23.ltrans.o
+                0x0000000000093d34                psGetNlmeBuf.9242
+                0x0000000000093d3e                psGetNldeBuf.9263
+                0x0000000000093d48                psGetApsmeBuf.9249
+                0x0000000000093d51                psGetApsdeBuf.9256
+                0x0000000000093e6a                os_bDummyMemberCheck.6085
+                0x0000000000093e6f                os_vDefaultErrorHook.6081
+                0x0000000000093e72                os_bStrictCheck.1358
+                0x0000000000094025                zps_u8AplApsFreeMsgHandle
+                0x000000000009408f                bCheckProfile.9101
+                0x00000000000940cd                ZPS_bIsGroupPresent
+                0x0000000000094105                pdum_u16ReadNBO
+                0x0000000000094266                PDUM_u16SizeNBO
+                0x00000000000942c4                PDUM_u16APduInstanceWriteStrNBO
+                0x0000000000094443                PDUM_u16APduInstanceReadNBO
+                0x000000000009448e                PDUM_u16APduInstanceWriteNBO
+                0x00000000000944f8                PDUM_eAPduInstanceSetPayloadSize
+                0x0000000000094520                PDUM_eNPduWriteDataFromBuffer
+                0x000000000009457a                PDUM_eNPduWriteDataToBuffer
+                0x00000000000945d8                PDUM_eNPduWriteFromBuffer
+                0x0000000000094601                PDUM_eNPduDescend
+                0x0000000000094627                PDUM_eNPduAscend
+                0x000000000009464d                PDUM_eNPduClaimData
+                0x00000000000946ba                PDUM_eNPduAppendDataNBO
+                0x0000000000094717                PDUM_eNPduClaimHeader
+                0x000000000009473a                PDUM_eNPduReadHeaderNBO
+                0x000000000009478d                PDUM_eNPduPrependHeaderNBO
+                0x00000000000947e8                PDUM_eNPduInitDescending
+                0x0000000000094803                eExpireSWTimer.6094
+                0x000000000009486e                vEnterErrorHook.6077
+                0x0000000000094895                OS_eCollectMessage
+                0x000000000009495a                vOSError
+ .text          0x000000000009495d      0xb4a C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans24.ltrans.o
+                0x000000000009495d                vZdoBdrmSendNextTimedRequest
+                0x0000000000094d34                zps_eZdpMatchDescResponse
+                0x0000000000094dca                zps_eZdpSystemServerDiscoveryResponse
+                0x0000000000094e39                zps_eAplZdpMgmtLqiResponse
+                0x0000000000094f21                zps_eAplZdpMgmtRtgResponse
+                0x0000000000094fe8                zps_eZdpMgmtNwkUpdateNotifyResponse
+                0x000000000009509a                AppWarmStart
+                0x00000000000950a5                AppColdStart
+                0x00000000000952e6                os_vUnclaimedInterrupt
+                0x00000000000952f8                os_vControlledIntCheck
+                0x000000000009533d                os_vControlledInterrupt
+                0x0000000000095376                os_vAPP_isrTickTimer
+                0x0000000000095466                os_vAPP_isrIllegalInstruction
+                0x0000000000095473                os_vAPP_isrAlignmentException
+                0x0000000000095480                os_vAPP_isrBusErrorException
+                0x000000000009548d                os_vAPP_isrUnimplementedModuleException
+                0x000000000009549a                os_vAPP_isrStackOverflowException
+ .text          0x00000000000954a7      0xb5c C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans25.ltrans.o
+                0x00000000000954a7                os_vzps_isrMAC
+                0x00000000000954dd                ZPS_vNwkHandleMcpsVsDcfmInd
+ .text          0x0000000000096003      0xa84 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans26.ltrans.o
+                0x000000000009605b                zps_vNwkHandleCmeActvStartRouterReq
+                0x0000000000096190                vHandleNwkLocalUpdateAfterBcast.73691
+                0x00000000000961f0                vHandleNwkRemoteUpdateAfterBcast.73682
+                0x0000000000096244                eSmeAcScScanDcfm.83327
+                0x0000000000096512                ZPS_pvNwkCtor.constprop.72
+                0x00000000000968a3                ZPS_vNwkHandleNlmeReqRsp.part.0.76850
+ .text          0x0000000000096a87      0xaca C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans27.ltrans.o
+                0x0000000000096a87                zps_bNwkFindAddIeeeAddr
+                0x0000000000096b17                ZPS_bNwkNibAddrMapAddEntry
+                0x0000000000096cd7                zps_vJoinInitNtParent
+                0x0000000000096d85                eCheckAddrConflict.73907
+                0x0000000000096e3b                ZPS_vRemoveEntryFromAddressMap
+                0x0000000000096e83                ZPS_vNwkSaveAllRecords
+                0x0000000000096e9a                ZPS_vNwkNibSetNwkAddr
+                0x0000000000096eb9                zps_eNwkHandleSceRejnResponse
+                0x0000000000096f16                ZPS_vNwkNibSetExtPanId
+                0x0000000000096f3b                vFinish.86341
+                0x0000000000096f90                ZPS_vNwkNibSetKeySeqNum
+                0x0000000000096fa5                ZPS_vNwkNibSetDepth
+                0x0000000000096faf                ZPS_vNwkNibSetPanId
+                0x0000000000096fce                ZPS_vNwkNibSetCapabilityInfo
+                0x0000000000096ffc                ZPS_vNwkNibSetChannel
+                0x000000000009701b                ZPS_vNwkSaveNt
+                0x0000000000097030                zps_vAgeRouter
+                0x0000000000097088                zps_psAllocateAndFormatMacHdr
+                0x0000000000097341                eSmeOrphScanDcfm.86351
+                0x00000000000973b9                zps_eNwkHandleSmeCommStatusInd
+                0x000000000009746d                eRejoinRspDataDcfm.85167
+                0x000000000009753c                ZPS_vNwkSaveSecMat
+ .text          0x0000000000097551      0x91e C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans28.ltrans.o
+                0x0000000000097551                vIncrementFrameCounterInPdm.isra.0.75922
+                0x000000000009772d                vProcessListsForSubmission.74656
+                0x0000000000097a9f                zps_eNwkHandleSdeActvDcfmData
+                0x0000000000097b76                zps_sNwkNibNtCheckJoin
+                0x0000000000097df0                zps_vNwkHandleCmeDirectJoinReq
+ .text          0x0000000000097e6f      0x883 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans29.ltrans.o
+                0x0000000000097e6f                vfExtendedStatusCallBack.3709
+                0x0000000000097e7b                OS_eEnterCriticalSection
+                0x0000000000097f43                PDM_eReadDataFromRecord.part.0.68737
+                0x0000000000097fc6                vMiniMac_McpsCallback
+                0x0000000000098168                eMcpsTxCompleteHandler.90403
+                0x0000000000098196                ZPS_eTsvStart
+                0x0000000000098226                zps_eNwkHandleSceNwkUpdate
+                0x000000000009824a                vProcessTimedList.74576
+                0x0000000000098290                zps_vNwkMcpsMgrPostTimed
+                0x00000000000982a3                vNwkMcpsSendTimedDfcm
+                0x00000000000982e7                zps_vCleanUnAuthenHandleExpiry
+                0x0000000000098358                zps_vAplAfPostTimerEvent
+                0x00000000000983cf                zps_vExpireOldRoutes
+                0x0000000000098431                zps_vNwkJoinStStartResponseTimer
+                0x000000000009846b                ZPS_eTsvStop
+                0x00000000000984bf                zps_vNwkHandleCmePermitJoinReq
+                0x0000000000098527                zps_eNwkBtrMatch
+                0x000000000009861c                zps_vAplApsStopPollTimer.part.2.11723
+                0x00000000000986a3                DBG_vDumpStack
+                0x00000000000986e5                vUnclaimedInterrupt
+ .text          0x00000000000986f2      0x6ae C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans30.ltrans.o
+                0x00000000000986f2                os_vzps_taskZPS
+                0x00000000000988b6                ZPS_vAplHandleApsdeReqRsp
+                0x0000000000098cd6                zps_eAplZdpApsdeReqInternal
+                0x0000000000098d45                zps_eAplZdpGenStatusOnlyResponse
+ .text          0x0000000000098da0      0x697 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans31.ltrans.o
+                0x0000000000098ea9                vZdoEndDeviceBindStateWaitSendWithAck
+                0x00000000000991ec                zps_bAplZdoZdoClient
+                0x00000000000992fc                zps_eZdpActiveEpResponse
+                0x0000000000099392                zps_eZdpEndDeviceBindResponse
+                0x00000000000993b3                zps_eAplZdpBindResponse
+                0x00000000000993d4                zps_eZdpUnbindResponse
+                0x00000000000993f5                zps_eZdpMgmtLeaveResponse
+                0x0000000000099416                zps_eZdpMgmtPermitJoiningResponse
+ .text          0x0000000000099437       0x25 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                0x0000000000099437                memcmp
+ .text          0x000000000009945c       0x19 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .text          0x0000000000099475       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                0x0000000000099475                memset
+ *fill*         0x0000000000099487        0x1 00
+ .text          0x0000000000099488      0x204 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+                0x0000000000099488                __udivsi3
+ .text          0x000000000009968c      0x1b0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+                0x000000000009968c                __umodsi3
+ .text          0x000000000009983c       0x24 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+                0x000000000009983c                __modsi3
+ .text          0x0000000000099860      0x350 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                0x0000000000099860                __udivdi3
+ *fill*         0x0000000000099bb0        0x0 00
+ .text          0x0000000000099bb0      0x138 os_irq.o
+                0x0000000000099bb0                os_ExternalException_W
+                0x0000000000099bf4                os_PIC_ChannelPriorities
+                0x0000000000099c04                os_OSMIUM_HwVectTable
+                0x0000000000099c40                os_PIC_SwVectTable
+ .text          0x0000000000099ce8       0x29 os_irq_alignment.o
+                0x0000000000099ce8                IRQ_Alignment
+ .text          0x0000000000099d11       0x29 os_irq_buserror.o
+                0x0000000000099d11                IRQ_BusError
+ .text          0x0000000000099d3a       0x29 os_irq_illegalinstruction.o
+                0x0000000000099d3a                IRQ_IllegalInstruction
+ .text          0x0000000000099d63       0x29 os_irq_stackoverflowexception.o
+                0x0000000000099d63                IRQ_StackOverflowException
+ .text          0x0000000000099d8c       0x29 os_irq_unimplementedmodule.o
+                0x0000000000099d8c                IRQ_UnimplementedModule
+ *fill*         0x0000000000099db5        0x3 00
+ .text          0x0000000000099db8       0xc0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libOS_JN516x.a(os_contirq_JN516x.o)
+                0x0000000000099db8                os_ExternalException_R
+                0x0000000000099de8                os_CFunc_W
+                0x0000000000099e38                os_UnclaimedException_W
+                0x0000000000099e58                os_UnclaimedInterrupt_W
+ .text          0x0000000000099e78       0x48 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libPWRM_JN516x.a(pwrm_setjmp_JN516x.o)
+                0x0000000000099e78                setjmp
+                0x0000000000099e9c                PWRM_longjmp
+ .text          0x0000000000099ec0       0x27 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libHardwareApi_JN516x.a(AHI_Interrupt.o)
+                0x0000000000099ec0                vAHI_InterruptSetPriority
+                0x0000000000099ede                vAHI_InterruptSetActivePriorityLevel
+ .text.vMicroSyscall
+                0x0000000000099ee7       0x17 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                0x0000000000099ee7                vMicroSyscall
+ .text          0x0000000000099efe        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libOS_JN516x.a(os_version_lc.o)
+                0x0000000000099efe                OS_Version_1v2
+ .text          0x0000000000099efe        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSAPL_JN516x.a(zps_apl_version_lc.o)
+                0x0000000000099efe                ZPS_APL_Version_2v0
+ .text          0x0000000000099efe        0x0 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libZPSNWK_JN516x.a(zps_nwk_version_lc.o)
+                0x0000000000099efe                ZPS_NWK_Version_2v0
+                0x0000000000099efe                _flash_end = ABSOLUTE (.)
+
+.rela.dyn       0x0000000000099f00        0x0
+ .rela.text     0x0000000000000000        0x0 os_irq.o
+ .rela.data     0x0000000000000000        0x0 os_irq.o
+ .rela.rodata   0x0000000000000000        0x0 os_irq.o
+                0x000000000400004c                . = ORIGIN (ram)
+
+.data           0x000000000400004c      0x6b8 load address 0x0000000000099f00
+                0x000000000400004c                _ram_data_start = ABSOLUTE (.)
+ *(.data*)
+ .data          0x000000000400004c       0x11 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans0.ltrans.o
+                0x000000000400004c                u8MiniMacConfig_MaxConcurrentAssocResponses
+ *fill*         0x000000000400005d        0x3 00
+ .data          0x0000000004000060        0x4 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans2.ltrans.o
+                0x0000000004000060                u32HeapStart
+ .data          0x0000000004000064        0x1 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans4.ltrans.o
+ *fill*         0x0000000004000065        0x3 00
+ .data          0x0000000004000068        0x8 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans14.ltrans.o
+                0x0000000004000068                bCanLoopback.12061
+ .data          0x0000000004000070        0xa C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans18.ltrans.o
+                0x0000000004000070                u16ActiveEDAddress.5202
+ *fill*         0x000000000400007a        0x2 00
+ .data          0x000000000400007c       0xac C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans23.ltrans.o
+                0x000000000400007c                s_asapduZCLInstances
+                0x00000000040000f4                s_asapduZDPInstances
+ .data          0x0000000004000128      0x5c0 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans24.ltrans.o
+                0x0000000004000128                os_Mutex_mutexMAC
+                0x0000000004000130                os_Mutex_mutexZPS
+                0x0000000004000138                s_sApl.2837
+                0x0000000004000284                os_Message_APP_msgMyEndPointEvents
+                0x00000000040002a8                os_Message_APP_msgZpsEvents
+                0x00000000040002cc                os_SWTimer_APP_cntrTickTimer_App_tmr1sec
+                0x00000000040002e8                os_SWTimer_APP_cntrTickTimer_APP_AgeOutChildrenTmr
+                0x0000000004000304                os_SWTimer_APP_cntrTickTimer_APP_tmrLEDBlinkTimer
+                0x0000000004000320                os_Message_zps_msgMlmeDcfmInd
+                0x0000000004000344                os_Message_zps_msgTimeEvents
+                0x0000000004000368                os_Message_zps_msgMcpsDcfmInd
+                0x000000000400038c                os_Task_APP_taskMyEndPoint
+                0x0000000004000398                os_Task_APP_taskCoordinator
+                0x00000000040003a4                os_Task_APP_AgeOutChildren
+                0x00000000040003b0                os_Task_zps_taskZPS
+                0x00000000040003bc                u8AhiBaudRate.70837
+                0x00000000040003c0                s_prbMemberCheck.6201
+                0x00000000040003c4                s_prvErrorHook.6199
+ .data          0x00000000040006e8        0x2 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans29.ltrans.o
+ .data          0x00000000040006ea        0x1 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans30.ltrans.o
+ *fill*         0x00000000040006eb        0x1 00
+ .data.s_asAPduPool
+                0x00000000040006ec       0x18 pdum_apdu.o
+                0x00000000040006ec                pdum_apduZDP
+                0x00000000040006ec                s_asAPduPool
+                0x00000000040006f8                pdum_apduZCL
+ *(.data.*)
+                0x0000000004000704                . = ALIGN (0x4)
+                0x0000000004000704                _ram_data_end = ABSOLUTE (.)
+
+.bss            0x0000000004000704     0x32f0 load address 0x000000000009a5b8
+                0x0000000004000704                _bss_start = ABSOLUTE (.)
+ *(.bss*)
+ .bss           0x0000000004000704     0x107c C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans0.ltrans.o
+                0x0000000004000704                psNextWake.6272
+                0x0000000004000708                s_bWakeTimerActive.6273
+                0x0000000004000709                s_ePowerMode.6274
+                0x000000000400070a                gu16NumberOfSegments.93931
+                0x000000000400070c                pfExtendedStatusCallBack.73204
+                0x0000000004000710                u8MaxNpdu.6475
+                0x0000000004000711                u8Count.6474
+                0x0000000004000714                s_psNPduPoolEnd.6477
+                0x0000000004000718                s_psNPduPoolStart.6476
+                0x000000000400071c                s_psFreeListHead.6473
+                0x0000000004000720                s_hMutex.6472
+                0x0000000004000724                s_hMutex.6592
+                0x0000000004000728                s_u32x.68509
+                0x000000000400072c                s_hMutex.94956
+                0x0000000004000730                pvRxStore
+                0x0000000004000734                pvTxStore
+                0x0000000004000738                g_pvAplHandle
+                0x000000000400073c                s_hMacMutex
+                0x0000000004000740                s_sDcfmIndMgr.94674
+                0x0000000004000748                prAppMcpsGetBuffer
+                0x000000000400074c                prAppMlmeGetBuffer
+                0x0000000004000750                prAppMcpsCallback
+                0x0000000004000754                prAppMlmeCallback
+                0x0000000004000758                u8MiniMac_RunTimeOptions
+                0x000000000400075c                psFreeMsgListHead
+                0x0000000004000760                psActiveMsgListHead
+                0x0000000004000764                psPDM_Common
+                0x0000000004000768                s_groupTablePdmStorage.2985
+ .bss           0x0000000004001780        0x1 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans1.ltrans.o
+                0x0000000004001780                s_eDeviceState.4039
+ *fill*         0x0000000004001781        0x3 00
+ .bss           0x0000000004001784        0xc C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans2.ltrans.o
+ .bss           0x0000000004001790        0x8 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans3.ltrans.o
+                0x0000000004001790                eMMacModuleType
+ .bss.initinboot
+                0x0000000004001798        0x1 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans3.ltrans.o
+ *fill*         0x0000000004001799        0x3 00
+ .bss           0x000000000400179c       0x10 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans4.ltrans.o
+                0x000000000400179c                vFlushFn.70781
+                0x00000000040017a0                vPutchFn.70776
+ .bss           0x00000000040017ac        0x8 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans5.ltrans.o
+ .bss           0x00000000040017b4       0x40 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans6.ltrans.o
+ .bss           0x00000000040017f4       0x10 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans7.ltrans.o
+ .bss           0x0000000004001804        0xc C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans8.ltrans.o
+                0x0000000004001804                a16NwkPdmRecordSizes
+ .bss           0x0000000004001810        0x1 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans9.ltrans.o
+ *fill*         0x0000000004001811        0x7 00
+ .bss           0x0000000004001818       0x40 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans10.ltrans.o
+ .bss           0x0000000004001858        0x1 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans11.ltrans.o
+                0x0000000004001858                u8ScanBeaconsSeen.94710
+ *fill*         0x0000000004001859        0x3 00
+ .bss           0x000000000400185c       0x94 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans12.ltrans.o
+                0x000000000400185c                sMiniMacPhyPib
+                0x0000000004001860                s_prExpireFn.94957
+                0x0000000004001864                psTimerServerList
+                0x0000000004001868                aprTimerCallback
+                0x0000000004001884                au32TimerCounter
+                0x00000000040018a0                sMiniMacInternal
+ .bss           0x00000000040018f0        0x4 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans13.ltrans.o
+ .bss           0x00000000040018f4       0x30 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans14.ltrans.o
+ .bss           0x0000000004001924       0x24 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans16.ltrans.o
+                0x0000000004001924                apvAplPdmRecordsAddress
+                0x000000000400193c                au16AplPdmRecordsSize
+ .bss           0x0000000004001948        0x3 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans18.ltrans.o
+                0x0000000004001948                bDefaultServerIgnoreHandleMgmtUpdate
+ *fill*         0x000000000400194b        0x1 00
+ .bss           0x000000000400194c        0x8 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans20.ltrans.o
+ .bss           0x0000000004001954      0x51c C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans23.ltrans.o
+ .bss           0x0000000004001e70     0x1a80 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans24.ltrans.o
+                0x0000000004001e70                s_sDefaultServerContext.2899
+                0x0000000004001e78                s_sEndDeviceBindServerContext.2830
+                0x0000000004001eb8                s_sMgmtRtgServerContext.2831
+                0x0000000004001ec0                s_sPermitJoiningServerContext.2832
+                0x0000000004001ec8                s_sBindRequestServerContext.2833
+                0x0000000004001f08                s_sBindUnbindServerContext.2835
+                0x0000000004001f48                s_sMgmtNWKUpdateServerContext.2836
+                0x0000000004001f88                s_sMgmtLeaveServerContext.2898
+                0x0000000004001fb0                s_sMgmtLqiServerContext.2897
+                0x0000000004001fb8                s_sSimpleDescServerContext.2896
+                0x0000000004001fc0                s_sMatchDescServerContext.2895
+                0x0000000004001fc8                s_sPowerDescServerContext.2894
+                0x0000000004001fd0                s_sNodeDescServerContext.2893
+                0x0000000004001fd8                s_sSystemServerDiscoveryServerContext.2892
+                0x0000000004001fe0                s_sIeeeAddrServerContext.2891
+                0x0000000004001fe8                s_sNwkAddrServerContext.2890
+                0x0000000004001ff0                s_sActiveEpServerContext.2889
+                0x0000000004001ff8                s_sZdoClientContext.2887
+                0x0000000004001ff8                s_sDeviceAnnceServerContext.2888
+                0x0000000004002000                bBindLookup
+                0x0000000004002004                psBindUnbindServerContext
+                0x0000000004002008                s_asAPduPool.6591
+                0x000000000400200c                s_u32LastExpiredTime.3683
+                0x0000000004002010                s_u32CompareTime.3682
+                0x0000000004002014                s_prvCurrentISR.6202
+                0x0000000004002018                u8AhiUart.70836
+                0x000000000400201c                s_u32CurrentPriorityMask.6194
+                0x0000000004002020                s_u8OSLevelIPL.6198
+                0x0000000004002024                s_asTasks.6197
+                0x0000000004002028                s_u32PendingQueue.6196
+                0x000000000400202c                pwrm_CPUContext
+ .bss           0x00000000040038f0        0xc C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans25.ltrans.o
+                0x00000000040038f0                s_psVsMcpsDcfmInd.25118
+                0x00000000040038f4                s_psMacDcfmInd.25117
+                0x00000000040038f8                bCheckChild
+ .bss           0x00000000040038fc        0xc C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans26.ltrans.o
+                0x00000000040038fc                sThisDeviceMacAddr
+ .bss           0x0000000004003908        0x1 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans27.ltrans.o
+ .bss           0x0000000004003909        0x1 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans28.ltrans.o
+                0x0000000004003909                bIgnoreBroadcast
+ *fill*         0x000000000400390a        0x2 00
+ .bss           0x000000000400390c        0x8 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans29.ltrans.o
+                0x000000000400390c                s_psCurrentTask.6195
+ .bss           0x0000000004003914        0x8 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans30.ltrans.o
+                0x0000000004003914                u32DataQueueCount
+                0x0000000004003918                s_u16ActivityCounter
+ .bss           0x000000000400391c       0x98 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans31.ltrans.o
+                0x000000000400391c                sMiniMacPib
+ .bss.dontinitinboot
+                0x00000000040039b4       0x40 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+                0x00000000040039b4                isr_handlers
+ *(.bss.*)
+ *(.scommon*)
+ *(.scommon.*)
+ *(COMMON)
+                0x00000000040039f4                . = ALIGN (0x4)
+                0x00000000040039f4                _bss_end = ABSOLUTE (.)
+
+.heap           0x00000000040039f4      0x3e8 load address 0x000000000009d8a8
+                0x00000000040039f4                _heap_start = ABSOLUTE (.)
+                0x0000000004003ddc                . = (. + _minimum_heap_size)
+ *fill*         0x00000000040039f4      0x3e8 00
+
+.stack          0x0000000004007254      0xdac load address 0x00000000000a1108
+                0x0000000004007254                _heap_end = ABSOLUTE (.)
+                0x0000000004007254                _stack_low_water_mark = ABSOLUTE (.)
+                0x0000000004008000                . = (. + _stack_size)
+ *fill*         0x0000000004007254      0xdac 00
+
+.test           0x000000000009a5b8        0x1
+                0x000000000009a5b8        0x1 BYTE 0xff
+                0x0000000000099f00                _flash_data_start = LOADADDR (.data)
+                0x00000000000006b8                _ram_data_len = (((_ram_data_end - _ram_data_start) + 0x3) & 0xfffffffffffffffc)
+                0x00000000000032f0                _bss_len = (((_bss_end - _bss_start) + 0x3) & 0xfffffffffffffffc)
+                0x000000000001a5b8                _image_len = ((((_flash_end - _flash_start) + _ram_data_len) + 0x3) & 0xfffffffffffffffc)
+                0x0000000004008000                _ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
+                0x0000000004008000                ram_top = (ABSOLUTE (ORIGIN (ram)) + 0x7fb4)
+                0x0000000001001580                _app_ram_start = 0x1001580
+                0x0000000004000060                PROVIDE (_heap_location, u32HeapStart)
+                0x0000000004000060                PROVIDE (heap_location, u32HeapStart)
+OUTPUT(Coordinator_JN5168.elf elf32-ba)
+
+.comment        0x0000000000000000       0x11
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans1.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans2.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans3.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans4.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans5.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans6.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans7.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans8.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans9.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans10.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans11.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans12.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans13.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans14.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans15.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans16.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans17.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans18.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans19.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans20.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans21.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans22.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans23.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans24.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans25.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans26.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans27.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans28.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans29.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans30.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\SVEN~1.YAN\AppData\Local\Temp\ccd2mlwz.ltrans31.ltrans.o
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .comment       0x0000000000000000       0x12 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .comment       0x0000000000000000       0x11 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libMicroSpecific_JN516x.a(MicroSyscall_ba.o)
+                                         0x12 (size before relaxing)
+
+.debug_info     0x0000000000000000      0xbc4
+ .debug_info    0x0000000000000000       0xf3 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_info    0x00000000000000f3      0x106 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_info    0x00000000000001f9       0xd7 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_info    0x00000000000002d0       0xb4 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_info    0x0000000000000384       0xb4 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_info    0x0000000000000438       0xb4 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_info    0x00000000000004ec      0x648 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_info    0x0000000000000b34       0x90 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+
+.debug_abbrev   0x0000000000000000      0x36d
+ .debug_abbrev  0x0000000000000000       0x8e c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_abbrev  0x000000000000008e       0xa4 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000000132       0x8e c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_abbrev  0x00000000000001c0       0x14 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_abbrev  0x00000000000001d4       0x14 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_abbrev  0x00000000000001e8       0x14 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_abbrev  0x00000000000001fc      0x15d c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x0000000000000359       0x14 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+
+.debug_loc      0x0000000000000000      0xb66
+ .debug_loc     0x0000000000000000       0x73 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_loc     0x0000000000000073       0x39 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_loc     0x00000000000000ac       0x3f c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_loc     0x00000000000000eb      0xa7b c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+
+.debug_aranges  0x0000000000000000      0x100
+ .debug_aranges
+                0x0000000000000000       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_aranges
+                0x0000000000000020       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000040       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000060       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_aranges
+                0x0000000000000080       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_aranges
+                0x00000000000000a0       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_aranges
+                0x00000000000000c0       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00000000000000e0       0x20 c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+
+.debug_line     0x0000000000000000     0x1000
+ .debug_line    0x0000000000000000      0x154 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_line    0x0000000000000154      0x148 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_line    0x000000000000029c      0x13e c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+ .debug_line    0x00000000000003da      0x47b c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__udivsi3.o)
+ .debug_line    0x0000000000000855      0x3c7 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__umodsi3.o)
+ .debug_line    0x0000000000000c1c       0xa3 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(__modsi3.o)
+ .debug_line    0x0000000000000cbf      0x1b7 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+ .debug_line    0x0000000000000e76      0x18a c:/NXP/bstudio_nxp/sdk/JN-SW-4168/Components/Library\libBoot_JN516x.a(ExceptionHandler.o)
+
+.debug_str      0x0000000000000000      0x2e8
+ .debug_str     0x0000000000000000      0x119 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+                                        0x152 (size before relaxing)
+ .debug_str     0x0000000000000119       0x5d c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+                                        0x166 (size before relaxing)
+ .debug_str     0x0000000000000176       0x49 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+                                        0x152 (size before relaxing)
+ .debug_str     0x00000000000001bf      0x129 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)
+                                        0x1d4 (size before relaxing)
+
+.debug_frame    0x0000000000000000       0x60
+ .debug_frame   0x0000000000000000       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000000020       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000040       0x20 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/../../../../ba-elf/lib/mcpu_jn51xx_sizeopt\libc.a(lib_a-memset.o)
+
+.debug_ranges   0x0000000000000000       0xa0
+ .debug_ranges  0x0000000000000000       0xa0 c:/nxp/bstudio_nxp/sdk/tools/ba-elf-ba2-r36379/bin/../lib/gcc/ba-elf/4.7.4/mcpu_jn51xx_sizeopt\libgcc.a(_udivdi3.o)

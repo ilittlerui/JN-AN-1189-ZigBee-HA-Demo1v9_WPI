@@ -111,6 +111,9 @@ PUBLIC void vAppMain(void)
      /*  Now we are running on the XTAL, optimise the flash memory wait states. */
      vAHI_OptimiseWaitStates();
 
+	 
+	 //aaa
+	 
     /* Initialise the debug diagnostics module to use UART0 at 115K Baud;
      * Do not use UART 1 if LEDs are used, as it shares DIO with the LEDS
      */

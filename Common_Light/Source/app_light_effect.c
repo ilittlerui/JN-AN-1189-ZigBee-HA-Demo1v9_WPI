@@ -7,7 +7,7 @@
  * DESCRIPTION:        Light effects implementation
  *
  ****************************************************************************
- *
+ * 
  * This software is owned by NXP B.V. and/or its supplier and is protected
  * under applicable copyright laws. All rights are reserved. We grant You,
  * and any third parties, a license to use this software solely and

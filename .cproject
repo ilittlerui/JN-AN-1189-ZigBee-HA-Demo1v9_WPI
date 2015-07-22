@@ -1137,41 +1137,45 @@
 		<configuration configurationName="DimmableLightWithOccupancy">
 			<resource resourceType="PROJECT" workspacePath="/HA_1_2_2"/>
 		</configuration>
-		<configuration configurationName="ColorTempTunableWhiteLight-GP"/>
 		<configuration configurationName="DimmableLight 1-GP">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
-		<configuration configurationName="OTA Client ColorDimmableLight1 with Occupancy Client"/>
-		<configuration configurationName="OTA Client ColorDimmableLight 1"/>
-		<configuration configurationName="DimmableLight 3">
+		<configuration configurationName="ColorDimmableLight 2"/>
+		<configuration configurationName="ColorDimmableLight 1">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
+		<configuration configurationName="DimmerSwitch">
+			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
+		</configuration>
+		<configuration configurationName="ColorTempTunableWhiteLight">
+			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
+		</configuration>
+		<configuration configurationName="ColorTempTunableWhiteLight-GP"/>
+		<configuration configurationName="OTA Client ColorDimmableLight 1"/>
+		<configuration configurationName="OTA Client ColorDimmableLight1 with Occupancy Client"/>
 		<configuration configurationName="OTA Client DimmableLight1">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
-		<configuration configurationName="ColorDimmableLight 2"/>
-		<configuration configurationName="EH Switch">
+		<configuration configurationName="DimmableLight 3">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
 		<configuration configurationName="Coordinator">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
-		<configuration configurationName="DimmableLight 3-GP">
+		<configuration configurationName="EH Switch">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
+		<configuration configurationName="DimmableLight 4"/>
 		<configuration configurationName="DimmableLight 1">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
-		<configuration configurationName="ColorDimmableLight 1">
+		<configuration configurationName="DimmableLight 3-GP">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
 		<configuration configurationName="DimmableLight 2">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
 		<configuration configurationName="OccupancySensor (DK4 Eval kit)">
-			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
-		</configuration>
-		<configuration configurationName="DimmerSwitch">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
 		<configuration configurationName="DimmableLight 2-GP">
@@ -1189,13 +1193,11 @@
 		<configuration configurationName="ColorDimmableLight 1- GP">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
-		<configuration configurationName="RemoteControl">
-			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
-		</configuration>
-		<configuration configurationName="ColorTempTunableWhiteLight">
-			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
-		</configuration>
+		<configuration configurationName="ColourTempTunableWhiteDimicLight"/>
 		<configuration configurationName="LightSensor">
+			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
+		</configuration>
+		<configuration configurationName="RemoteControl">
 			<resource resourceType="PROJECT" workspacePath="/ZSL-Test-App"/>
 		</configuration>
 		<configuration configurationName="ColorDimmerSwitch">
